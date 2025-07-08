@@ -1,2 +1,4 @@
-AnalyzePandas - Анализ данных об американских закусочных при помощи Pandas
+AnalyzePandas.ipynb - Анализ данных об американских закусочных при помощи Pandas
+
+SQLPsycopg2.ipynb - Работа с PostgreSQL через psycopg2 + написание запросов в redash
 
