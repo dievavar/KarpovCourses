@@ -2,3 +2,5 @@ AnalyzePandas.ipynb - Анализ данных об американских з
 
 SQLPsycopg2.ipynb - Работа с PostgreSQL через psycopg2 + написание запросов в redash
 
+OOP.ipynb - работа с ООП в pyton 
+
