@@ -4,3 +4,5 @@ practice1, practice2 - Предоставлены данные и ipynb-файл
 practice3 - Работа с метриками регрессии: MSE, RMSE, MAE, RMSLE.
 
 practice4 - Расбота с Линейной Регрессией (используя матричные преобразования и sklearn)
+
+practice5 - Градиентный спуск: OLS регрессия, визуализация Matplotlib 
